@@ -1,0 +1,16 @@
+C:\Users\csi21\source\repos\Programacion\ClinicaPaciente\obj\Debug\ClinicaPaciente.csproj.AssemblyReference.cache
+C:\Users\csi21\source\repos\Programacion\ClinicaPaciente\obj\Debug\ClinicaPaciente.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi21\source\repos\Programacion\ClinicaPaciente\obj\Debug\ClinicaPaciente.csproj.CoreCompileInputs.cache
+C:\Users\csi21\source\repos\Programacion\ClinicaPaciente\bin\Debug\ClinicaPaciente.exe.config
+C:\Users\csi21\source\repos\Programacion\ClinicaPaciente\bin\Debug\ClinicaPaciente.exe
+C:\Users\csi21\source\repos\Programacion\ClinicaPaciente\bin\Debug\ClinicaPaciente.pdb
+C:\Users\csi21\source\repos\Programacion\ClinicaPaciente\obj\Debug\ClinicaPaciente.exe
+C:\Users\csi21\source\repos\Programacion\ClinicaPaciente\obj\Debug\ClinicaPaciente.pdb
+C:\Users\pablo\source\repos\Mis_Proyecto_De_Programacion\ClinicaPaciente\ClinicaPaciente\obj\Debug\ClinicaPaciente.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\Mis_Proyecto_De_Programacion\ClinicaPaciente\ClinicaPaciente\obj\Debug\ClinicaPaciente.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\source\repos\Mis_Proyecto_De_Programacion\ClinicaPaciente\ClinicaPaciente\obj\Debug\ClinicaPaciente.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Mis_Proyecto_De_Programacion\ClinicaPaciente\ClinicaPaciente\obj\Debug\ClinicaPaciente.exe
+C:\Users\pablo\source\repos\Mis_Proyecto_De_Programacion\ClinicaPaciente\ClinicaPaciente\obj\Debug\ClinicaPaciente.pdb
+C:\Users\pablo\source\repos\Mis_Proyecto_De_Programacion\ClinicaPaciente\ClinicaPaciente\bin\Debug\ClinicaPaciente.exe.config
+C:\Users\pablo\source\repos\Mis_Proyecto_De_Programacion\ClinicaPaciente\ClinicaPaciente\bin\Debug\ClinicaPaciente.exe
+C:\Users\pablo\source\repos\Mis_Proyecto_De_Programacion\ClinicaPaciente\ClinicaPaciente\bin\Debug\ClinicaPaciente.pdb
